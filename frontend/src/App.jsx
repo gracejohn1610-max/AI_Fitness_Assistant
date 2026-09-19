@@ -13,7 +13,7 @@ import {
 import "./App.css";
 import WorkoutCamera from "./WorkoutCamera";
 
-const API = "http://127.0.0.1:8000";
+const API = "https://ai-fitness-assistant-ftc3.onrender.com";
 
 function App() {
   const [activePage, setActivePage] = useState("Dashboard");
