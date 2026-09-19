@@ -21,7 +21,7 @@ app.add_middleware(
     "http://127.0.0.1:5173",
     "https://ai-fitness-assistant-tau.vercel.app"
 ],
-    ],
+    
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
